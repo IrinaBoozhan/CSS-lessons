@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    border-color: black;   
+}
+
+tr, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+caption {
+    text-align: left;
+}
+
+td[colspan], th[colspan] {
+    background-color: gray; 
+}
+tr:nth-child(3) {
+    background-color: green; 
+}
+
+tr:nth-child(4) {
+    background-color:red; 
+}
+
+tr:nth-child(5) {
+    background-color: yellow; 
+}
