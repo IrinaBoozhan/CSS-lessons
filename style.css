@@ -1,0 +1,10 @@
+div{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 20px;
+}
+a {color: rgb(0, 255, 242);}
+a:first-child {color: red;}
+a:last-child {color:yellow}
