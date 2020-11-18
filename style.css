@@ -1,0 +1,22 @@
+blockquote {
+    font-family: Courier New;
+}
+
+mark{
+    background-color: rgba(128, 128, 86, 0.1);
+    line-height:20px;
+}
+    
+div mark {
+    color: orange;
+    font-weight: bold;
+}
+
+cite mark {
+    color: green;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+
